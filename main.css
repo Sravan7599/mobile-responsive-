@@ -127,7 +127,7 @@ span {
 
     }
     .second {
-        width: 50vw;
+        width: 50%;
         height: 60vh;
         padding: 3rem;
         padding-top: 4rem;
@@ -135,7 +135,7 @@ span {
     }
     .third {
         height: 60vh;
-        width: 50vw;
+        width: 50%;
         padding: 3rem;
         padding-top: 4rem;
         float: right;
